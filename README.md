@@ -10,7 +10,7 @@ Electronic parts :
 Yaml exemple :
 
 Ressources :
- - [https://community.home-assistant.io/t/hiking-dds238-2-zn-s-energy-meter-reset-modbus/543765](https://gist.github.com/alphp/95e1efe916c0dd6df7156f43dd521d53)
+ - https://gist.github.com/alphp/95e1efe916c0dd6df7156f43dd521d53
  - https://kaspars.net/blog/hiking-dds238-2-modbus
  - https://community.home-assistant.io/t/hiking-dds238-2-zn-s-energy-meter-reset-modbus/543765
 
