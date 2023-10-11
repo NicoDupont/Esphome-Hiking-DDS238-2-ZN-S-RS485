@@ -7,7 +7,7 @@ Electronic parts :
 - rs485 to ttl converter
 
 
-Yaml exemple : [test-dds238-2-zn.yaml](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485)
+Yaml  : [exemple](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485/blob/main/test-dds238-2-zn.yaml)
 
 Ressources :
  - https://gist.github.com/alphp/95e1efe916c0dd6df7156f43dd521d53
