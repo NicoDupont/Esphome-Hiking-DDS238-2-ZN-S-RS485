@@ -9,7 +9,7 @@ Electronic parts :
 
 Yaml  : [exemple](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485/blob/main/test-dds238-2-zn.yaml)
 
-![img3.png](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485/blob/main/img3.png)
+![img3.png](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485/blob/main/img3.jpg)
 ![img1.png](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485/blob/main/img1.png)
 ![img2.png](https://github.com/NicoDupont/Esphome-Hiking-DDS238-2-ZN-S-RS485/blob/main/img2.png)
 
